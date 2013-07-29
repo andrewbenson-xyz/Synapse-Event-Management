@@ -1,0 +1,8 @@
+body {
+background-color: #999;
+} 
+#wrapper {
+width: 960px;
+margin-left: auto;
+margin-right: auto;
+}
